@@ -6,7 +6,7 @@ A simple weather app built to get familiar with asynchronous JavaScript (and now
 
 ## Live version
 
-A live version is available [here](https://raw.githack.com/elshaka/js-weather/development/dist/index.html)
+A live version is available [here](https://raw.githack.com/zarmeza/js-weather/development/dist/index.html)
 
 ## Built with
 
@@ -41,6 +41,6 @@ npm start
 
 👤 **Eleazar Meza**
 
-- Github: [@elshaka](https://github.com/elshaka)
-- Twitter: [@elshaka](https://twitter.com/elshaka)
-- Linkedin: [Eleazar Meza](https://www.linkedin.com/in/elshaka/)
+- Github: [@zarmeza](https://github.com/zarmeza)
+- Twitter: [@zarmeza](https://twitter.com/zarmeza)
+- Linkedin: [Eleazar Meza](https://www.linkedin.com/in/zarmeza/)
